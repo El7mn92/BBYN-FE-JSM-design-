@@ -1,0 +1,5 @@
+{
+  "name": "Boubyan Ticketing Simulation",
+  "description": "A high-fidelity MVP simulation of a corporate ticketing system (Jira-style) with specific branding and categorization.",
+  "requestFramePermissions": []
+}
